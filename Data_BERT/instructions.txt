@@ -1,1 +1,3 @@
 Os arquivos desta pasta são usados pelo código classify_bert_english.ipynb
+
+Link para baixar o IMDBDataset e modelo BERT treinado: https://drive.google.com/drive/folders/1yH6yOVpuuF0lkS2c2_3IAAU40kTZ-zL-?usp=sharing
