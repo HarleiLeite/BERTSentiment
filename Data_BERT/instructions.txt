@@ -1,0 +1,1 @@
+Os arquivos desta pasta são usados pelo código classify_bert_english.ipynb
